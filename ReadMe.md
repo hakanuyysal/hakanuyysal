@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Aloha Live App and various projects at Aloha Dijital, where I focus on Full Stack Web & Mobile Development, along with a TUBITAK AI project.<br><br>👯 I’m looking to collaborate on:<br>Frontend and backend development using technologies like React, React Native, Node.js, MongoDB, and Next.js, as well as AI and data analysis projects.<br><br>🤝 I’m looking for help with:<br>Expanding my expertise in cloud deployment, improving notification systems, and exploring international job opportunities.<br><br>🌱 I’m currently learning:<br>Advanced AI techniques, server management, and improving my backend systems integration skills, with a focus on REST APIs and scalable solutions.<br><br>💬 Ask me about:<br>Full Stack Development, API integrations, migrating React Native apps, and optimizing web and mobile apps.<br><br>⚡ Fun fact:<br>I’ve been passionate about software development for many years, constantly enhancing my knowledge in C#, SQL, React, Next.js, MongoDB, and various other cutting-edge technologies!
 
+#My Private Projects 
+![GitHub Contribution Graph](https://raw.githubusercontent.com/hakanuyysal/hakanuyysal/main/my_private_projects.png)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakanuyysal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hakanuyysal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hakanuyysal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Hakan Hakan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hakanuyysal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hakanuyysal) 
@@ -13,6 +17,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hakanuyysal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![GitHub Contribution Graph](https://raw.githubusercontent.com/hakanuyysal/hakanuyysal/main/my_private_projects.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

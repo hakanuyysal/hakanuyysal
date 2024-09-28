@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Aloha Live App and various projects at Aloha Dijital, where I focus on Full Stack Web & Mobile Development, along with a TUBITAK AI project.<br><br>👯 I’m looking to collaborate on:<br>Frontend and backend development using technologies like React, React Native, Node.js, MongoDB, and Next.js, as well as AI and data analysis projects.<br><br>🤝 I’m looking for help with:<br>Expanding my expertise in cloud deployment, improving notification systems, and exploring international job opportunities.<br><br>🌱 I’m currently learning:<br>Advanced AI techniques, server management, and improving my backend systems integration skills, with a focus on REST APIs and scalable solutions.<br><br>💬 Ask me about:<br>Full Stack Development, API integrations, migrating React Native apps, and optimizing web and mobile apps.<br><br>⚡ Fun fact:<br>I’ve been passionate about software development for many years, constantly enhancing my knowledge in C#, SQL, React, Next.js, MongoDB, and various other cutting-edge technologies!
 
-#My Private Projects 
+#My Private Projects in 2024
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/hakanuyysal/hakanuyysal/main/my_private_projects.png)
 
 

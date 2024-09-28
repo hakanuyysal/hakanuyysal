@@ -13,5 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hakanuyysal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/hakanuyysal/hakanuyysal/main/my_private_projects.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
